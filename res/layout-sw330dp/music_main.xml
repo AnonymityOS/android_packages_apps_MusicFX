@@ -79,7 +79,6 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
                 android:layout_gravity="right"
                 android:background="@null"
                 android:button="@drawable/togglestate"
-                android:paddingRight="10dp"
                 android:textOff=""
                 android:textOn="" />
         </LinearLayout>
@@ -175,7 +174,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
             <LinearLayout android:gravity="center_horizontal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_gravity="bottom|center|center_horizontal"
+                android:layout_gravity="bottom|left|center_horizontal"
                 android:layout_marginBottom="10dp"
                  android:orientation="horizontal" >
 

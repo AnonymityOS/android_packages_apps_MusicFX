@@ -33,13 +33,13 @@
     <string name="setup" msgid="1103677904576339192">"Настройка"</string>
 
     <string name="normal">Нормальный</string>
-    <string name="classical">Классикческий</string>
+    <string name="classical">Классический</string>
     <string name="dance">Танцевальный</string>
     <string name="flat">Плоский</string>
     <string name="folk">Фолк</string>
     <string name="heavy_metal">Тяжелый металл</string>
     <string name="hip_hop">Хип-хоп</string>
-    <string name="jazz">Лжаз</string>
+    <string name="jazz">Джаз</string>
     <string name="pop">Поп</string>
     <string name="rock">Рок</string>
     <string name="ci_extreme" msgid="1736938429763948084">"Усилитель FX"</string>
@@ -49,7 +49,7 @@
     <string name="smallroom">Маленькая комната</string>
     <string name="mediumroom">Средняя комната</string>
     <string name="largeroom">Большая комната</string>
-    <string name="mediumhall">Среднее сцена</string>
+    <string name="mediumhall">Средняя сцена</string>
     <string name="largehall">Большая сцена</string>
     <string name="plate">Пластина</string>
 
